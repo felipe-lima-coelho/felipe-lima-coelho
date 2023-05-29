@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felipe Lima Coelho</h1>
 <h3 align="center">Eternal student of problem solving</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipe-lima-coelho&label=Profile%20views&color=0e75b6&style=flat" alt="felipe-lima-coelho" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipe-lima-coelho" alt="felipe-lima-coelho" /></a> </p>
-
 - 🌱 I’m currently learning **Context API, NextJS and Tailwind**
 
 - 👨‍💻 All of my projects are available at [https://github.com/felipe-lima-coelho](https://github.com/felipe-lima-coelho)
