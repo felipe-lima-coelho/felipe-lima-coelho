@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React**
 
-- ⚡ Fun fact **Já iniciei 2 faculdades não relacionadas a TI, farmácia na UFOP e economia na UFRJ**
+- ⚡ Fun fact **I already started 2 colleges not related to IT, pharmacy at UFOP and economics at UFRJ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
