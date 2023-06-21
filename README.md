@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Lima Coelho</h1>
 <h3 align="center">Eternal student of problem solving</h3>
 
-- 🌱 I’m currently learning **Context API, NextJS and Tailwind**
+- 🌱 I’m currently learning **TypeScript, Docker and Tailwind**
 
 <!--
 - 👨‍💻 All of my projects are available at [https://github.com/felipe-lima-coelho](https://github.com/felipe-lima-coelho)
