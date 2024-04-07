@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Felipe Lima Coelho</h1>
 <h3 align="center">Eternal student of problem solving</h3>
 
-- 🌱 I’m currently learning **TypeScript, Docker and Tailwind**
+- 🌱 I’m currently learning **Go**
 
 <!--
 - 👨‍💻 All of my projects are available at [https://github.com/felipe-lima-coelho](https://github.com/felipe-lima-coelho)
 -->
-
-- 💬 Ask me about **React**
 
 - ⚡ Fun fact **I already started 2 colleges not related to IT, pharmacy at UFOP and economics at UFRJ**
 
